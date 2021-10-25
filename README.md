@@ -41,13 +41,18 @@ Looking for opportunities to learn and work especially with Signal Processing/Ma
 Timezone: India (IST = GMT+5:30)
 </p>
 <br />
-Currently working on further open source contributions to Braindecode, MOABB. Getting my older projects to Github ready states to open source them. 
+  
+- Currently working on further open source contributions to Braindecode, MOABB. 
+
+- Getting my older projects to Github ready states to open source them. 
 
 <h2 align="center">Fun Facts</h2>
   
 - Attended the [Neuromatch Academy - Deep Learning](https://deeplearning.neuromatch.io/) Course on the Interactive Track and completely enjoyed learning throughout it.
   
 - Very interested in better learning techniques, both for myself and algorithms!
+  
+- Strong believer in better science through open source.
     
 <!--
 
