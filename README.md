@@ -6,7 +6,9 @@ A final year undergrad doing my thesis remotely with the Neuroengineering and Bi
 Super interested in Neurotech and understanding the brain. 
 </p>
 <p align="center">
-Looking for opportunities to learn and work especially with Signal Processing/Machine Learning/Deep Learning decoding techniques for Biomedical/Neural Data.
+Looking for opportunities to learn and work especially with Signal Processing, Machine Learning, Deep Learning decoding techniques, especially for Biomedical/Neural Data.
+
+Also currently working on freelancing and projects in ML, MLOps and Data Science in all domains.
 </p>
 
 <h2 align="center">My favorite projects 💻</h2>
@@ -32,6 +34,9 @@ Looking for opportunities to learn and work especially with Signal Processing/Ma
 <a href="https://github.com/braindecode/braindecode">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=braindecode&repo=braindecode&theme=tokyonight" />
 </a>
+<a href="https://github.com/mne-tools/mne-connectivity">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mne-tools&repo=mne-connectivity&theme=tokyonight" />
+</a>
 </p>
 
 <br />
@@ -42,7 +47,7 @@ Timezone: India (IST = GMT+5:30)
 </p>
 <br />
   
-- Currently working on further open source contributions to Braindecode, MOABB. 
+- Currently working on further open source contributions to Braindecode, MOABB, mne-connectivity. 
 
 - Getting my older projects to Github ready states to open source them. 
 
