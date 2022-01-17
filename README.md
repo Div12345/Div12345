@@ -7,8 +7,7 @@ Super interested in Neurotech and understanding the brain.
 </p>
 <p align="center">
 Looking for opportunities to learn and work especially with Signal Processing, Machine Learning, Deep Learning decoding techniques, especially for Biomedical/Neural Data.
-
-Also currently working on freelancing and projects in ML, MLOps and Data Science in all domains.
+Also currently working on and open to freelancing and projects in ML, MLOps and Data Science in all domains.
 </p>
 
 <h2 align="center">My favorite projects 💻</h2>
