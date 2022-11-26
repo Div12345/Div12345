@@ -42,7 +42,7 @@ Also currently working on and open to freelancing and projects in ML, MLOps and 
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
-Timezone: India (IST = GMT+5:30)
+Timezone: Pittsburgh (EST = GMT-5)
 </p>
 <br />
   
