@@ -1,12 +1,12 @@
 <h1 align="center"><b>Hi there, I'm Divyesh 👋</h1>
 <p align="center">
-A final year undergrad doing my thesis remotely with the Neuroengineering and Biomedical Instrumentation Lab, Johns Hopkins University.
+A PhD student in the Cardiovascular Health Tech Lab at the University of Pittsburgh.
 </p>
 <p align="center">
-Super interested in Neurotech and understanding the brain. 
+I'm also super interested in Neurotech and understanding the brain. 
 </p>
 <p align="center">
-Looking for opportunities to learn and work especially with Signal Processing, Machine Learning, Deep Learning decoding techniques, especially for Biomedical/Neural Data.
+Always on the lookout for opportunities to learn and work especially with Signal Processing, Machine Learning, Deep Learning decoding techniques, especially for Biomedical/Neural Data.
 Also currently working on and open to freelancing and projects in ML, MLOps and Data Science in all domains.
 </p>
 
