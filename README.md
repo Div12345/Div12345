@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there, I'm Divyesh 👋</h1>
 <p align="center">
-A PhD student in the Cardiovascular Health Tech Lab at the University of Pittsburgh.
+Finishing up my MS with 4 years of research experience at the Cardiovascular Health Tech Lab at the University of Pittsburgh.
 </p>
 <p align="center">
 I'm also super interested in Neurotech and understanding the brain. 
